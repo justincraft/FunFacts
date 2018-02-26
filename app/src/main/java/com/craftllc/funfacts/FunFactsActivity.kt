@@ -42,7 +42,7 @@ class FunFactsActivity : AppCompatActivity() {
         }
 
         //Toast.makeText(this, "Check out these fun facts!", Toast.LENGTH_SHORT).show()
-        Log.d(TAG, "Here is an example log entry.")
+        //Log.d(TAG, "Here is an example log entry.")
 
     }
 }
